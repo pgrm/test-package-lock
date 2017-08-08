@@ -23,7 +23,7 @@
     "@angular/router": "^4.2.4",
     "core-js": "^2.4.1",
     "rxjs": "^5.4.1",
-    "ui-api-proxy": "git+https://github.com/apaleo/ui-api-proxy.git#8e8cee16eeeeb4d662e3a87bc759d8566b8c2011",
+    "ui-api-proxy": "git+https://github.com/apaleo/ui-api-proxy.git",
     "zone.js": "^0.8.12"
   },
   "devDependencies": {
